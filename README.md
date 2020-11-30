@@ -3,7 +3,7 @@
 ## Pythagorean Theorem
 In this assignment, you will create a Java program to implement the Pythagorean Theorem.
 
-pythagorean
+![pythagorean](/assignment.png)
 
 To complete this assignment, you will need the Math class from the java.lang package. This package provides fundamentals classes to the Java programming language such as Object, Boolean, String, Integer, Math, etc. Therefore, the java.lang package is automatically imported and ready to use in every Java program.
 
@@ -38,5 +38,6 @@ double squareRoot = Math.sqrt(four); // 2.0
 ● Create a PythagoreanTest file that will instantiate a new Pythagorean object and call the calculateHypotenuse method.
 
 **Useful Links**
+
 ● [java.lang](https://docs.oracle.com/javase/8/docs/api/java/lang/package-summary.html)
 
